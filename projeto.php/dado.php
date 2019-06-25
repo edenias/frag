@@ -9,7 +9,7 @@
    $_senha = $_POST['senha'];
   
 
-   echo "meu email é ê:".$_email." minha senha é:".$_senha;
+   echo "meu email é :".$_email." minha senha é:".$_senha;
 
      }
    }
